@@ -17,7 +17,7 @@ import com.bhim.service.LoginService;
 import com.bhim.service.RegisterService;
 import com.bhim.service.ResetPwdService;
 
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("http://localhost:3000")
 @RestController
 @RequestMapping("/api/customer")
 public class CustomerController {
